@@ -1,0 +1,1 @@
+{"name":"Local: SoleThe","url":"c:\\Users\\habib\\Desktop\\Cpp\\SoleThe.cpp","tests":[{"id":1728753910780,"input":"4545\n","output":"4444"},{"id":1728754294696,"input":"27\n","output":"22"},{"id":1728754761872,"input":"9","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\habib\\Desktop\\Cpp\\SoleThe.cpp","group":"local","local":true}
